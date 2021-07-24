@@ -1,0 +1,80 @@
+Интервальное кодирование ВТОРОЙ сп.:
+Код: 
+Декодирование: nnnnmmmmsdaaaaddd
+я строка mcdjeemgamiicj
+Код: 
+Декод: mcdjeemgamiicj
+
+Генерируемая строка aifmiiggljaidf
+Код: 
+Декод: aifmiiggljaidf
+
+Генерируемая строка ilakaekkagfmda
+Код: 
+Декод: ilakaekkagfmda
+
+Генерируемая строка iefjgkhbkifaea
+Код: 
+Декод: iefjgkhbkifaea
+
+Генерируемая строка ifeglalahgdkdd
+Код: 
+Декод: ifeglalahgdkdd
+
+Генерируемая строка bkficadhhelikk
+Код: 
+Декод: bkficadhhelikk
+
+Генерируемая строка jcjmgegbiaefgd
+Код: 
+Декод: jcjmgegbiaefgd
+
+Генерируемая строка ihaellaafhmbeb
+Код: 
+Декод: ihaellaafhmbeb
+
+Генерируемая строка kmlkcjjcdigdlb
+Код: 
+Декод: kmlkcjjcdigdlb
+
+Генерируемая строка jhcbgigehffemk
+Код: 
+Декод: jhcbgigehffemk
+
+Генерируемая строка jgbfaglaljalhl
+Код: 
+Декод: jgbfaglaljalhl
+
+Генерируемая строка eadfeakgcemegl
+Код: 
+Декод: eadfeakgcemegl
+
+Генерируемая строка hdiehckadihala
+Код: 
+Декод: hdiehckadihala
+
+Генерируемая строка bcgakeefehkkmk
+Код: 
+Декод: bcgakeefehkkmk
+
+Генерируемая строка emlhebdababgll
+Код: 
+Декод: emlhebdababgll
+
+Генерируемая строка mjgbmkcbhheeda
+Код: 
+Декод: mjgbmkcbhheeda
+
+Генерируемая строка gkkghlgmilgcjl
+Код: 
+Декод: gkkghlgmilgcjl
+
+Генерируемая строка mcedjbddmkicgc
+Код: 
+Декод: mcedjbddmkicgc
+
+Генерируемая строка ambbmdcbgmgkhg
+Код: 
+Декод: ambbmdcbgmgkhg
+
+Количество тестов 20. Результаты тестов: true
